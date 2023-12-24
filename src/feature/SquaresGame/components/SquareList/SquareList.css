@@ -1,0 +1,8 @@
+.square-list-div {
+  width: 256px;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  background: black;
+  gap: 1px;
+  border: 1px solid black;
+}

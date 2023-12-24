@@ -1,0 +1,7 @@
+.info-rows {
+  display: flex;
+  padding: 10px 20px;
+  background: #fbf9e3;
+  color: #8a7d5d;
+  font-weight: 600;
+}

@@ -1,0 +1,37 @@
+.squares-game-content {
+  padding-top: 100px;
+  margin: 0 auto;
+  width: 800px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 40px;
+}
+
+.game-div {
+  width: 270px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.start-game {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.hovered-squares {
+  text-align: start;
+}
+
+.title {
+  margin: 0;
+  padding: 0 0 10px 0;
+  font-size: 32px;
+}
+
+.hovered-squares-info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
